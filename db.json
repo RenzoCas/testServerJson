@@ -116,6 +116,6 @@
             "is_translation": false,
             "geographic_restriction": false
         },
-        "error": true
+        "error": null
     }
 }
